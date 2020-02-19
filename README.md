@@ -4,4 +4,4 @@ Here I used google cloud Virtual Machine to build a Deep Learning classifier, th
 
 https://wolf-dog.appspot.com/
 
-![Prediction rate](https://imgur.com/g8ljyqh)
+![Prediction rate](https://pasteboard.co/IVoJ2z2.png)
